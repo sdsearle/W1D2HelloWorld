@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W1D2HelloWorld</string>
+    <string name="myText">Hello World! This is Spencer Searle\'s App.</string>
+    <string name="myText2">This is a text view</string>
+</resources>
