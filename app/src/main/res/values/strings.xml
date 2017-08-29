@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">W1D2HelloWorld</string>
-    <string name="myText">Hello World! This is Spencer Searle\'s App.</string>
-    <string name="myText2">This is a text view</string>
+    <string name="myText">Hello World!</string>
+    <string name="myName">My name is Spencer!</string>
+    <string name="myText2">I recently Graduated from BYU-H</string>
+    <string name="myApp">I made a simple game for Adroid, that is similar to connect four.</string>
+    <string name="myNationality">I am American</string>
+    <string name="myHobbies">I am competitive and love to play sports, video games, and any other type of game</string>
 </resources>
